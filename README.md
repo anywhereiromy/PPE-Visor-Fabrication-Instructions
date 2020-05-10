@@ -37,7 +37,7 @@ If you don’t have any acetate please leave this to Anup, Abhi, and Gwilym, who
 If you do have acetate, the acetate should be 400 microns thick, and the dimensions for the sheet should be 290mm x 240mm. The longer side going across the headband.
 
 To prepare the acetate:
-1. Cut acetate 290mm across by 240mm vertical.
+1. Cut acetate a minimum of 240mm across by 240mm vertical. Ideal size is 290 x 240mm.
 2. Find the mid-point (145mm), mark with sharpie.
 3. Measure 70mm out each side of mid-point, mark dots with sharpie.
 4. Use a normal double-hole punch, centred on each of those dots, to make 2 pairs of holes.
